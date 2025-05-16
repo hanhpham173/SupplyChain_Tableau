@@ -38,15 +38,14 @@ To develop a professional dashboard that supports operational visibility and dec
 
 ## 🧭 Dashboard Pages Overview
 
-- **Supply Chain Story**  
-  Presents narrative insights into delay history, with annotations showing turning points and operational changes (e.g., "Until mid-2016, we have been experiencing large shipment delays").
+- **Shipment Dashboard**  
+  Tracks delay evolution, maps delay concentration globally, and provides deep insights into order volume patterns and shipment classification trends.
 
 - **Inventory Dashboard**  
   Highlights supply-demand imbalances, stock deltas, and demand fulfillment gaps across product categories and time.
 
-- **Shipment Dashboard**  
-  Tracks delay evolution, maps delay concentration globally, and provides deep insights into order volume patterns and shipment classification trends.
-
+- **Supply Chain Story**  
+  Presents narrative insights into delay history, with annotations showing turning points and operational changes (e.g., "Until mid-2016, we have been experiencing large shipment delays").
 ---
 
 ## 📈 Key Insights
