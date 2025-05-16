@@ -41,11 +41,18 @@ To develop a professional dashboard that supports operational visibility and dec
 - **Shipment Dashboard**  
   Tracks delay evolution, maps delay concentration globally, and provides deep insights into order volume patterns and shipment classification trends.
 
+![Dashboard Screenshot](https://github.com/hanhpham173/SupplyChain_Tableau/blob/38781276696e1d4e6266b59d7b9b4f34e1eb4b83/sc1.JPG)
+
 - **Inventory Dashboard**  
   Highlights supply-demand imbalances, stock deltas, and demand fulfillment gaps across product categories and time.
 
+![Dashboard Screenshot](https://github.com/hanhpham173/SupplyChain_Tableau/blob/38781276696e1d4e6266b59d7b9b4f34e1eb4b83/sc2.JPG)
+
 - **Supply Chain Story**  
   Presents narrative insights into delay history, with annotations showing turning points and operational changes (e.g., "Until mid-2016, we have been experiencing large shipment delays").
+
+  ![Dashboard Screenshot](https://github.com/hanhpham173/SupplyChain_Tableau/blob/38781276696e1d4e6266b59d7b9b4f34e1eb4b83/sc3.JPG)
+
 ---
 
 ## 📈 Key Insights
