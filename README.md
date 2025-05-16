@@ -96,5 +96,8 @@ This project demonstrates skills in:
   - `sc1.JPG` – Supply Chain Story  
   - `sc2.JPG` – Inventory Dashboard  
   - `sc3.JPG` – Shipment Dashboard
-
+  - `JIT_LOGO.PNG` – Just-in-Time branding logo used in the visual design  
+  - `fulfillment.csv` – Dataset of fulfillment records, including delivery status and delay duration  
+  - `inventory.csv` – Inventory levels by product, date, and category  
+  - `orders_and_shipments.csv` – Historical records of placed orders and shipped quantities  
 ---
